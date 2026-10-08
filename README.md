@@ -1,1 +1,1 @@
-This is a Moduler $ Packager project.
+This is a Moduler & Packager Project.
